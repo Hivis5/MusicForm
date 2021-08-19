@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+}
+#contact {
+  background: #f9f9f9;
+  padding: 25px;
+  margin: 150px 0;
+  box-shadow: 1px 1px 5px 5px rgba(100, 100, 100, 0.75);
+  border-radius: 19px 19px 19px 19px;
+}
+.container {
+  text-align: center;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+img,
+h1,
+p {
+  width: 100%;
+}
+p {
+  color: #444;
+}
